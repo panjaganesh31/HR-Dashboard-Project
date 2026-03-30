@@ -1,0 +1,19 @@
+"Activity name","Activity status","Error","Run start","Duration","Input","Output"
+"HR_Semantic model refresh","In progress","","3/30/2026, 3:19:56 PM","10s","{
+    ""method"": ""post"",
+    ""waitOnCompletion"": true,
+    ""commitMode"": ""Transactional"",
+    ""operationType"": ""SemanticModelRefresh"",
+    ""groupId"": ""04d28be3-d839-4842-bcde-c63960f1d7c3"",
+    ""datasetId"": ""93b202a0-0a1f-4e61-93ff-0bc030fac802""
+}",""
+"Hr_Dataflow","Succeeded","","3/30/2026, 3:18:44 PM","1m 11s","{
+    ""dataflowId"": ""6f28f27b-d250-4bcb-9856-6b9764a22e66"",
+    ""workspaceId"": ""04d28be3-d839-4842-bcde-c63960f1d7c3"",
+    ""notifyOption"": ""NoNotification"",
+    ""dataflowType"": ""Dataflow-Gen2""
+}","{
+    ""transactionId"": ""2be46217-b008-48f1-a48f-edd17a5ffa2a$28092679"",
+    ""rootActivityId"": ""9ab05f1f-d6a9-435c-8932-e7ea507e84f9"",
+    ""executionDuration"": 62
+}"
